@@ -1,4 +1,4 @@
-# UPB-Telecom-Electronics-Engineering-Project
+# UPB-Telecom-Electronics-Engineering-Project-Course
 Material of the Electronics and Telecom Engineering project course at UPB-Cochabamba
 ### Prerequisites
 * STM32 toolchain
