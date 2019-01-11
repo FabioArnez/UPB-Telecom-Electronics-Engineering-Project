@@ -55,9 +55,6 @@ def main():
     dbAddress = args.dbaddr
     app_id = args.appid
     access_key = args.accessKey
-    # ttn application credentials
-    # app_id = "testapptelecomproject_868"
-    # access_key = "ttn-account-v2.2GeA7EbqY7SBG-14tG7ma5m4I17VoQTJ4UZS0ZP1-ZQ"
 
     # TTN handlers
     handler = ttn.HandlerClient(app_id, access_key)
