@@ -40,7 +40,7 @@ def main():
                         dest='appid',
                         help="TTN application id",
                         type=str,
-                        default='testapptelecomproject_868'
+                        default='youtAppID'
                         )
 
     parser.add_argument("-k",
